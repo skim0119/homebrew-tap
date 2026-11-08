@@ -1,8 +1,8 @@
 class Sqtop < Formula
   desc "Read-only Slurm schedule explorer over SSH"
   homepage "https://github.com/skim0119/sqtop"
-  url "https://github.com/skim0119/sqtop/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "6dd1c1e2147d334ea018c7baba65d7796449891b3975c4fc316fc004f1ef9575"
+  url "https://github.com/skim0119/sqtop/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "475a7eb801e545a0e8e29b57babd4775c96d4829fea588c0a4109eeb4f9d7207"
   license "MIT"
 
   depends_on "rust" => :build
